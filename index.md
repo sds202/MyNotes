@@ -1,6 +1,4 @@
-<!doctype html>
-  <html>
+<html>
   <title>MyNotes</title>
-  </html>
-  <body>
-  </body>
+</html>
+<a href="notes/JavaScript/">About JavaScript by SDS202</a>
